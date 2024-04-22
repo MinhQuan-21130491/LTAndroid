@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214561807164",
+    "project_id": "zenly-chat-backend",
+    "storage_bucket": "zenly-chat-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214561807164:android:ff1124268fd51847fc1c39",
+        "android_client_info": {
+          "package_name": "com.example.exfirebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOkAKnl-EXrgqiBuyy4KyjdPPjC3EEIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
